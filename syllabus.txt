@@ -1,0 +1,518 @@
+ 
+3rd Year 6th Semester 
+National Institute of Technology Raipur Course of Study and Scheme of Examination B. Tech. 6th Semester Branch: S. No. Subject Code Subject Name Periods per 
+Week TA Examination Scheme Total 
+Marks Credits L T P MSE/MTR ESE/ESVE Theory Prac. Theory Prac. 1 EC106101EC Wireless 
+Communication 3 1 0 20 30   50   100 4 2 EC106102EC Microwave Engineering 3 1 0 20 30   50   100 4 3 EC106103EC VLSI Design 3 1 0 20 30   50   100 4 4   Program Elective  3 0 0 20 30   50   100 3 5   Open Elective 3 0 0 20 30   50   100 3 6 EC106401EC Microwave Lab 0 0 2 40   20   40 100 1 7 EC106402EC VLSI Design 
+Lab 0 0 2 40   20   40 100 1                                                                                                                                   20   	 	    	 	 	 	 	 
+ 
+ 
+Program Electives Subject Code Name of Subject   EC106201EC Advanced Digital Signal Processing   EC106202EC Advanced Microprocessor   EC106203EC Computer Communication Network       Open Electives   Subject Code Name of Subject   EC106301EC Machine Learning and Pattern Recognition   EC106302EC Information Theory and Coding    
+ 
+ 
+ 
+ 
+Wireless Communication   
+[6th Semester, Third Year] 
+Course Description 
+Offered by Department 	 	 	 	Credits  	 	Status 	 	Code 
+Electronics & Communication Engineering 	 	3-1-0, (4)  	 	CORE  	 	EC106101EC 
+[Pre-requisites: EC104105EC - Analog Communication, EC105101EC - Digital Communication] 
+Course Objectives 
+1. To understand the concept of Wireless Communication with Cellular Communication as an example  
+2. To understand the characteristic of wireless channel. 
+3. To understand the mitigation of multi path fading. 
+4. To explain various digital signaling techniques for fading channels. 
+ 
+Course Content 
+UNIT-I 
+Introduction to Wireless and Cellular Communication: Overview of Wireless Communications, Introduction to Cellular Communication, Cellular Concept, Frequency reuse, channel assignment, hand off, interference & system capacity trunking & grade of service, Coverage, and capacity improvement, Multiple Access techniques - FDMA, TDMA, CDMA, Capacity calculations, Introduction to 1G, 2G, 3G, 4G and 5G mobile systems. 
+ 
+Unit- II 
+Wireless Channel Models: Radio Wave Propagation Transmit and Receive Signal Models, Free-Space Path Loss, Ray Tracing, Two-Ray Model, The Okumura Model, Hata Model, Shadow Fading. Time-Varying Channel Impulse Response, Narrowband Fading Models, Autocorrelation, Cross Correlation, and Power Spectral Density, Envelope and Power Distributions, Level Crossing Rate and Average 
+Fade Duration, Wideband Fading Models, Power Delay Profile, Coherence Bandwidth, Doppler Power Spectrum and Channel Coherence Time. Capacity calculation of AWGN channel, Flat-Fading Channels. Frequency-Selective Fading Channels, Time-Invariant Channels, Time-Varying Channels. 
+ 
+ 
+Unit- III:  
+Multipath Mitigation Techniques: Equalizer Noise Enhancement, Equalization, Adaptive equalization, Linear and Non-Linear equalization, Zero forcing and LMS Algorithms. Diversity, Micro and Macro diversity, Diversity combining techniques, Error probability in fading channels with diversity reception, Rake receiver. 
+ 
+Unit- IV:  
+Digital Signaling for Fading Channels: Structure of a wireless communication link, Principles of Offset-QPSK, p/4-DQPSK, Minimum Shift Keying, Gaussian Minimum Shift Keying, Error performance in fading Channels ,Data Transmission using Multiple Carriers, Multicarrier Modulation with Overlapping Sub-channels, Mitigation of Subcarrier Fading, Coding with Interleaving over Time, and Frequency, Frequency Equalization, Precoding, Adaptive Loading, Discrete Implementation of multicarrier, DFT and its Properties, Cyclic Prefix, Orthogonal Frequency Division Multiplexing (OFDM), Matrix Representation of OFDM, Vector Coding, Challenges in Multicarrier Systems, Case Study: The IEEE 802.11a Wireless LAN Standard. 
+ 
+Course Materials 
+Required Text: Text books 
+1. Wireless Communications by Andrea Goldsmith, Cambridge University Press. 
+2. Wireless Communications principle and practices, Theodore S. Rappaport. 
+ 
+Optional Materials: Reference Books 
+1. Fundamentals of Wireless Communication, David Tse, Pramod Viswanath, Cambridge University Press 
+2. Principle of Wireless Networks, Kaveh Pahlavan. Prashant Krishnamurthy, PHI 
+ 
+ 
+ 
+ 
+ 
+ 
+Microwave Engineering   
+[6th Semester, Third Year] 
+Course Description 
+Offered by Department 	 	 	 	Credits  	 	Status 	 	Code 
+Electronics & Communication Engineering 	 	3-1-0, (4)  	 	CORE  	 	EC106102EC 
+[Pre-requisites: EC104101EC- Electromagnetic Field Theory] 
+Course Objectives 
+1. To understand and analyze the different microwave components and their applications. 
+2. To understand the principle of working of different type of microwave tubes. 
+3. To understand the principle of working of different type of semiconductor devices and their applications. 
+ 
+Course Content 
+Unit- I:  
+Waveguides: Introduction to waveguides, Rectangular waveguide, Transverse Magnetic (TM) modes, Transverse Electric (TE) modes, Wave propagation in the guide, power transmission and attenuation, Waveguide resonators. 
+ 
+UNIT-II:  
+Microwave Components: S-parameters and their properties; Scattering matrix of 3- and 4-portjunctions, T-junction power divider; Hybrid ring; directional couplers; planewave propagation in ferrites, Faraday rotation, ferrite circulators, isolators, and phase shifters. 
+ 
+Unit- III:  
+Microwave Tubes: Failure of conventional tube at high frequency; Klystron- velocity modulation, output power and efficiency calculation; Reflex Klystron- velocity modulation, output power and efficiency calculation; principle of operation of traveling wave tube and magnetron. 
+ 
+Unit- IV:  
+Microwave Semiconductor Devices: Operation and circuit applications of Gunn diode, Tunnel diode, Varactor diode, IMPATT diode, PIN diode, Crystal Diode, Schottky barrier diode and parametric amplifiers. 
+ 
+Course Materials 
+Required Text: Text books 
+1. Microwave Devices and Circuits by Samuel Y. Liao, 3rd Ed., Pearson Education 
+2. Microwave Engineering, D.M Pozar, John Wiley & Sons 
+ 
+Optional Materials: Reference Books 
+1. Antenna Theory Analysis and Design, Constantine A. Balanis, John Wiley and Sons 
+2. Microwave and Radar Engg., M. Kulkarni, Umesh Publication. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+VLSI Design   
+[6th Semester, Third Year] 
+Course Description 
+Offered by Department 	 	 	 	Credits  	 	Code 
+Electronics & Communication Engineering 	 	3-1-0, (4)  	 	CORE  	 	EC106103EC 
+[Pre-requisites: EC103102EC-Microelectronic Devices and Circuits, EC103104EC-Digital logic design] 
+Course Objectives 
+1. To model the behavior of a MOS Transistor. 
+2. To design combinational and sequential circuits using CMOS gates. 
+3. To draw layout of a given logic circuit. 
+4. To realize logic circuits with different design styles. 
+5. To demonstrate an understanding of working principle of operation of different types of memories. 
+ 
+Course Content 
+UNIT-I 
+Introduction to VLSI Design, Layout Design Rules, Metal Oxide Semiconductor: Structure, type, Current-Voltage characteristics, MOS Modeling, Scaling and Short channel effects, MOS capacitance. 
+ 
+Unit- II 
+Resistive load inverters, CMOS Inverter: Static Characteristics, Delay, Interconnect, Parasitics, Switching Characteristics, Power Dissipation of CMOS Inverter. 
+ 
+Unit- III 
+Combinational CMOS Circuits: Static CMOS Design: Complementary CMOS, Gates, Pass-Transistor Logic, Dynamic CMOS Design. 
+ 
+Unit- IV 
+Sequential Circuits: SR Latch, Clocked Latch and Flip Flop, Semiconductor Memories: Read-Only Memory Circuits (ROM), Static ReadWrite Memory Circuits (SRAM), Dynamic Read-Write Circuits (DRAM), Dynamic logic circuits. 
+ 
+Course Materials 
+Required Text: Text books 
+1. CMOS Digital Integrated Circuits: Analysis and Design by Sung-MO Kang, Yusuf Leblebici. 
+ 
+Optional Materials: Reference Books 
+1. Digital Integrated Circuits: A Design Perspective, J. Rabaey, Prentice Hall India. 
+2. Principles of CMOS VLSI Design, Addison Wesley N. Weste and K. Eshranghi Addison Wesley. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Advanced Digital Signal Processing   
+[6th Semester, Third Year] 
+Course Description 
+Offered by Department 	 	 	 	Credits    Electronics & Communication Engineering 	 	3-0-0, (3)  [Pre-requisites: EC104102EC-Digital Signal Processing]             ELECTIVE                       EC106201ECCourse Objectives 
+1. To understand the basic concept of DFT it's less computational complexity version. 
+2. To understand the fundamental concept of adaptive filter and its practical application domains 
+3. To understand the basic concept and advantages of increasing or decreasing the sampling rate of signal. 
+4. To understand the basic concept of wavelet transform and its applications. 
+ 
+Course Content 
+Unit- I 
+INTRODUCTION TO ADAPTIVE SIGNAL PROCESSING: FIR adaptive filters- steepest descent adaptive filter- LMS algorithm- convergence of LMS algorithms- Application noise cancellation- channel equalization- adaptive recursive filters- recursive least squares. 
+ 
+Unit-II 
+INTRODUCTION TO MULTIRATE SIGNAL PROCESSING: Decimation by a factor D, Interpolation by a factor I - Filter Design and implementation for sampling rate conversion: Direct form FIR filter structures- Poly phase filter structure. 
+ 
+Unit-III 
+INTRODUCTION TO WAVELET TRANSFORMS: Fourier Transform: Its power and limitations, Short Time Fourier Transform, The Gabor Transform, Discrete Time Fourier Transform and filter banks, Continuous Wavelet Transform, Wavelet Transform Ideal Case, Perfect Reconstruction Filter Banks and wavelets, Recursive multi-resolution decomposition, Harr Wavelet, Daubechies Wavelet. 
+ 
+Unit-IV  
+POWER SPECTRAL ESTIMATION: Estimation of Spectra from Finite Duration Observations of a signal, the Periodogram, Use DFT in power Spectral Estimation, Bartlett, Welch and Blackman, Tukey methods, Comparison of performance of Non-Parametric Power Spectrum Estimation Methods. 
+ 
+Course Materials 
+Required Text: Text books 
+1. Digital Signal Processing Principles, Algorithms, and Applications, John G. Proakis, Prentice Hall International Inc, 4th Edition, 2012.  
+2. Theory and Application of Digital Signal Processing, Lawrence R. Rabiner and Bernard Gold. 
+ 
+Optional Materials: Reference Books 
+1. Discrete-time signal processing, Alan V. Oppenheim, Pearson Education India, 1999.  
+2. Digital signal processing: a computer-based approach, Mitra, Sanjit Kumar, and Yonghong Kuo. Vol. 2. New York: McGrawHill Higher Education, 2006. 
+3. Wavelet Transforms: Introduction to Theory and Applications, Raghuveer M. Rao, Ajit S, Bopardikar, Pearson Education, Asia, 2000. 
+ 
+ 
+ 
+ 
+ 
+ 
+Advanced Microprocessor   
+[6th Semester, Third Year] 
+Course Description 
+Offered by Department 	 	 	 	Credits  	  	 	Code 
+Electronics & Communication Engineering 	 	3-0-0, (3)  	            ELECTIVE                       EC106202EC [Pre-requisites: EC105102EC- Microprocessors & Microcontrollers] 
+Course Objectives 
+1. To learn the concepts of advanced microprocessor architecture. 
+2. To learn the basic architecture of Pentium family of processors.  
+3. To understand the concepts and architecture of RISC processor and ARM. 
+ 
+Course Content 
+UNIT-I  
+ADVANCED MICROPROCESSOR ARCHITECTURE: Internal Microprocessor Architecture-Real mode memory addressing - Protected Mode Memory addressing -Memory paging - Data addressing modes - Program memory addressing modes - Stack memory addressing modes- Data movement instructions - Program control instructions- Arithmetic and Logic Instructions. 
+ 
+Unit- II 
+INTRODUCTION TO INTEL MICROPROCESSORS: Introduction to  Intel 16 and 32 bit Microprocessors, Architecture, Pins & Signals, Memory System Registers, Memory Management, Paging Technique, Protected Mode Operation, brief introduction to  Math Coprocessor. 
+ 
+Unit- III 
+PENTIUM PROCESSORS: Introduction to Pentium Microprocessor - Special Pentium registers- Branch Prediction Logic, Floating Point Module, Cache Structure, and Superscalar Architecture. Pentium memory management - New Pentium Instructions -Pentium Processor -Special Pentium pro features - Pentium 4 processor. 
+ 
+Unit- IV 
+RISC PROCESSORS AND ARM: The RISC revolution - Characteristics of RISC Architecture - The Berkeley RISC - Register Windows - Windows and parameter passing - Window overflow - RISC architecture and pipelining - Pipeline bubbles - Accessing external memory in RISC systems - Reducing the branch penalties - Branch prediction - The ARM processors - ARM registers - ARM instructions - The ARM built-in shift mechanism - ARM branch instructions - sequence control - Data movement and memory reference instructions. 
+ 
+Course Materials 
+Required Text: Text books 
+1. The Intel Microprocessors 8086/8088, 8086, 80286, 80386, 80486, Pentium, Pentium Pro Processor, Pentium II, Pentium III, Pentium 4, Architecture, Programming and interfacing, Barry B.Brey, Prentice Hall of India Private Limited, New Delhi, 2003. 
+2. The Principles of Computer Hardware, Alan Clements, Oxford University Press, 3rd Edition, 2003. 
+ 
+Optional Materials: Reference Books 
+1. Advanced Microprocessors and Peripherals, Ajoy Ray and K Bhurchandi,  Third edition, New Delhi : McGraw Hill Education (India) Private Limited, 2015. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Computer Communication Networks   
+[6th Semester, Third Year] 
+Course Description 
+Offered by Department 	 	 	 	Credits  	  	Status
+Electronics & Communication Engineering 	 	3-0-0, (3)  	            ELECTIVE                       EC106203EC
+[Pre-requisites: EC104105EC- Analog Communication, EC105101EC-Digital Communication, CS10I010CS-Computer Programming] 
+Course Objectives 
+1. To understand the layering architecture of OSI reference model and TCP/IP protocol suite. 
+2. To understand the protocols associated with each layer. 
+3. To learn the different networking architectures and their representations. 
+4. To learn the various routing techniques and the transport layer services. 
+ 
+Course Content 
+UNIT-I 
+Introduction to Data Communications, Components, Representations, Data Flow, Networks, Physical Structures, Network Types, Switching, Types of switching, Circuit switching, packet switching, virtual circuit switching, their advantages and disadvantages. Introduction to Internet.  
+Network Models: Protocol Layering: Scenarios, Principles, Logical Connections, ISO-OSI Model and Layered Architecture, Layers in TCP/IP suite, Description of layers, Encapsulation and Decapsulation, Addressing, Multiplexing and Demultiplexing, The OSI Model: OSI Versus TCP/IP. 
+ 
+Unit- II 
+Data-Link Layer: Nodes and Links, Services, Categories of link, Sublayers, Link Layer addressing: Types of addresses, ARP. Data Link Control (DLC) services: Framing, Flow and Error Control, Practical Error control, Data Link Layer Protocols: Simplex Protocol, Stop and Wait protocol, sliding window protocols Piggybacking. MAC Sublayer, Types of Media Accessing Schemes, Random Access schemes: ALOHA, CSMA, CSMA/CD, CSMA/CA. Controlled Access Schemes: Reservation, Polling, Token Passing Ethernet Protocol: IEEE802.3 Ethernet Evolution, Standard Ethernet: Characteristics,, Access Method, Efficiency, Implementation, Fast Ethernet: Access Method, Physical Layer, Gigabit Ethernet: MAC Sublayer, Physical Layer, 10 Gigabit Ethernet Wireless LANs: Introduction: Architectural Comparison, Characteristics, IEEE 802.11  Architecture, MAC Sublayer, Addressing Mechanism, Physical Layer Connecting Devices: Hubs, Switches, Virtual LANs: Membership, Configuration, Communication between Switches, Advantages. Network Layer. 
+ 
+Unit- III 
+Network Layer services: Packetizing, Routing and Forwarding, Other services, Packet Switching: Datagram Approach, Virtual Circuit Approach, IPV4 Addresses: Address Space, Classful Addressing, Classless Addressing, DHCP, Network Address Resolution, Forwarding of IP Packets: Based on destination Address and Label Network Layer Protocols: Internet Protocol (IP): Datagram Format, Fragmentation, Options, IPv4 Datagrams, ICMPv4: Messages, Debugging Tools, Mobile IP: Addressing, Agents, Introduction, Routing Algorithms: Distance Vector Routing, Link State Routing, Shortest  Path vector routing, Internet Routing , Routing Information Protocol, Open Shortest Path First, Border Gateway Protocol. 
+ 
+Unit- IV 
+Transport Layer: Introduction: Transport Layer Services, Connectionless and Connection oriented Protocols, Transport Layer Protocols: Simple protocol, Stop and wait protocol, Go-Back-N Protocol, Selective repeat protocol, User Datagram Protocol: User Datagram, UDP Services, UDP Applications, Transmission Control Protocol: TCP Services, TCP Features, Segment, Connection, State Transition diagram, Windows in TCP, Flow control, Error control, TCP congestion control. 
+ 
+Course Materials 
+Required Text: Text books 
+1. Data Communications and Networking, Forouzan, 5th Edition, McGraw Hill, 2016 ISBN: 1-25-906475-3 
+2. Communication Networks, A Leon-Garcia, I Widjaja, McGraw Hill Education India. 
+3. Data and Computer Communications, William Stallings, Pearson Higher Education. 
+4. Computer Networks, Andrew S. Tanenbaum, David j. Wetherall, Pearson Higher Education. 
+ 
+Optional Materials: Reference Books 
+1. Computer Networking: A top-down approach, J F Kurose, K W Ross, Pearson Education. 
+2. Data Networks, 2 ed, D P Bertsekas, R G Gallagar, Prentice Hall. 
+3. Computer Networks and Internets with Internet Applications, Douglas E. Comer Pearson Higher Education. 
+4. Internetworking With TCP/IP: Principles, Protocols, and Architecture (Volume 1), Douglas E. Comer Pearson Higher Education. 
+ 
+ 
+ 
+Machine Learning and Pattern Recognition   
+[6th Semester, Third Year] 
+Course Description 
+Offered by Department 	 	 	 	Credits  	  	Status 	 	 	Code 
+Electronics & Communication Engineering 	 	3-0-0, (3)  	            ELECTIVE                       EC106301EC [Pre-requisites: MA10I001MA- Mathematics I, MA10I002MA- Mathematics II, MA103001MA-Mathematics III] 
+Course Objectives 
+1. To understanding and application of supervised and unsupervised machine learning algorithms for real-world applications 2. To apply the obtained knowledge to pattern recognition problems. 
+ 
+Course Content 
+Unit-I 
+Introduction: Learning theory, Hypothesis and target class, Inductive bias and bias-variance tradeoff, Occam's razor, Limitations of inference machines, Approximation, and estimation errors. Supervised learning: Linear separability and decision regions, Linear discriminants, Bayes optimal classifier, Linear regression, Standard  and   stochastic  gradient  descent,   Lasso  and   Ridge Regression, Decision Tree Induction, Overfitting, Pruning of decision trees, Bagging and Boosting, Dimensionality reduction and Feature selection. Introduction to fuzzy sets, fuzzy membership functions, FIS basics and Defuzzification. 
+ 
+Unit II 
+Unsupervised learning: Clustering, Mixture models, Expectation Maximization, Spectral Clustering, Non-parametric density estimation, k-means, fuzzy clustering, PCA. 
+ 
+Unit-III 
+Support Vector Machines:  Structural and empirical risk, Margin of a classifier, Support Vector Machines, learning nonlinear hypothesis using kernel functions. Ensemble classifier. 
+ 
+Unit IV 
+Introduction to Neural Networks Logistic regression, gradient descent, Perceptron, MLP, back propagation, valuation: Performance evaluation metrics, ROC Curves, Validation methods, Hidden Markov models, discrete and continuous Reinforcement Learning. 
+ 
+Course Materials 
+Required Text: Text books 
+1. Pattern Recognition and Machine Learning, C. M. Bishop, Springer, 2010. 
+2. Applied machine learning, M Gopal, McGraw-Hill Education. 
+3 Neural networks and learning Machines, Simon Haykin. 
+ 
+Optional Materials: Reference Books 
+1. Pattern Classification, R. O. Duda, P. E. Hart, and D. G. Stork, John Wiley and Sons, 2012. 
+2. Neuro-Fuzzy and Soft Computing: A Computational Approach to Learning and Machine Intelligence: Jang, Mizutani. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Information Theory and Coding   
+[6th Semester, Third Year] 
+Course Description 
+Offered by Department 	 	 	 	Credits    Electronics & Communication Engineering 	 	3-0-0, (3)  [Pre-requisites: EC105101EC-Digital Communication]             ELECTIVE                       EC106302EC Course Objectives 
+1. To understand the concepts of information, entropy, and mutual information. 
+2. To understand measures of information for discrete and continuous sources. 
+3. To understand and utilize Shannon's source and channel coding theorem. 
+4. To understand various source coding algorithms and write practical programs based on them. 
+5. To understand various channel coding algorithms and write practical programs based on them. 
+ 
+Course Content 
+UNIT-I 
+SOURCE CODING: Uncertainty and information, Average mutual information and entropy, Information measures for continuous random variables, Source coding theorem, Huffman coding, Lempel-Ziv algorithm. 
+ 
+UNIT II 
+CHANNEL CODING: Channel capacity, Information capacity theorem, Shannon limit, Random codes, Linear block codes and syndrome decoding, Error probability after coding, Cyclic codes, CRC codes. 
+ 
+UNIT III 
+BCH and Reed-Solomon codes: Primitive elements, minimal polynomial, Generator polynomial in terms of minimal polynomial, Encoding and decoding of BCH codes, Reed Solomon codes. 
+ 
+UNIT IV 
+CONVOLUTIONAL CODES: Tree codes and trellis codes, Polynomial description of convolutional codes, Generating function, Viterbi decoding, Distance bounds, Performance bounds.  
+ 
+Course Materials 
+Required Text: Text books 
+1. Information Theory, Coding and Cryptography, Ranjan Bose, Tata McGraw Hill. 
+2. Digital Communication, John G Proakis, McGraw Hill. 
+ 
+Optional Materials: Reference Books 
+ 	1. Elements of Information Theory, Cover & Thomas, Wiley. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Microwave Lab   
+[6th Semester, Third Year] 
+Course Description 
+Offered by Department 	 	 	 	Credits  	  
+Electronics & Communication Engineering 	 	0-0-2, (1)  	                 CORE                                 EC106401EC 
+ 
+Course Objectives 
+1. Understand and analyze the different microwave components and their applications. 
+2. Understand the principle of working of different type of microwave tubes. 
+3. Understand the principle of working of different type of semiconductor devices and their applications 
+ 
+List of Experiments 
+1. Study of Microwave Components and Instruments. 
+2. Study of Reflex Klystron Characteristics. 
+3. Study of Wavelength & VSWR measurement for X-band. 
+4. Study of Gunn Oscillator 
+5. Verify the Properties of Directional Coupler 6. 	Study of power division in E-plane & H-plane Tee. 
+7. Study of power division in Magic Tee. 
+8. Verify the properties of Isolator and Circulator Characteristics 
+9. Verify the characteristics of Reciprocal and Non-Reciprocal devices with the help of Microwave Power Meter 10. Study of Characteristics of Different antennas using Vector Network Analyzer  
+11. Study of characteristics of PIN Modulator using microstrip trainer kit. 
+12. Verify PIN diode as a SPST switch using microstrip trainer kit. 
+13. Verify PIN diode as a SPDT switch using microstrip trainer kit. 
+14. Verify Operation of Frequency Mixer using microstrip trainer kit. 
+15. Verify Schottky diode as a detector using microstrip trainer kit. 
+ 
+Course Materials 
+Required Text: Text books 
+1. Microwave Devices and Circuits by Samuel Y. Liao, 3rd Ed., Pearson Education 
+2. Microwave Engineering, D.M Pozar, John Wiley & Sons 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VLSI Design Lab   
+[6th Semester, Third Year] 
+Course Description 
+Offered by Department 	 	  Credits    Electronics & Communication Engineering  0-0-2, (1)                  CORE                                 EC106402EC  
+Course Objectives 
+1. To model the behavior of a MOS Transistor 
+2. To design combinational and sequential circuits using CMOS gates 
+3. To draw layout of a given logic circuit 
+4. To realize logic circuits with different design styles 
+5. To demonstrate an understanding of working principle of operation of different types of memories 
+ 
+List of Experiments 
+1. Study of the output and transfer characteristics of an n-channel and p-channel MOSFET. 
+2. Study of the static (VTC) and dynamic characteristics of a digital CMOS inverter. 
+3. Design of a 3-inverter ring oscillator and study of its output characteristics. 
+4. Study of dynamic characteristics of 2-input NAND, NOR, XOR and XNOR logic gates using CMOS technology. 
+5. Design of a 4x1 multiplexer using pass transistor logic. 
+6. Design of a multiplexer using dynamic logic.  
+7. Study of the characteristics of a positive and negative latch. 
+8. Study of the characteristics of a master-slave positive and negative edge triggered registers. 
+9. Design and analysis of 1-bit SRAM cell for read and write operations. 
+10. Design and analysis of 1-bit DRAM cell for read and write operations. 
+ 
+Course Materials 
+Required Text: Text books 
+1. CMOS Digital Integrated Circuits: Analysis and Design by Sung-MO Kang, Yusuf Leblebici. 
+ 
+
+
+
+
+1 
+ 
+
+ 
+ 
+3 
+ 
+
+
+
+1 
+ 
+
+	Status 	 	
+ 
+
+	Status 	 	 	Code 	
+ 
+
+1 
+ 
+
+ 
+ 
+3 
+ 
+
+	Status 	 	
+
+ 
+ 
+3 
+ 
+
+
+
+	Status 	 	 	Code 
+
+1 
+ 
+
+1 
+ 
+
+	 	 	 	Code 	
+ 
+
+1 
+ 
+
+	Status 	 	 	Code 
+
+	Status 	 	 	Code 
+
+1 
+ 
+
+1 
+ 
+
+	Status 	 	 	Code 
+
+1 
+ 
+
